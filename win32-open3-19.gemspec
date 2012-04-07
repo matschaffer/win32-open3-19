@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = 'win32-open3-19'
-  s.version = '0.0.1'
-  s.summary = 'Provides Open4.popen4 in Ruby 1.9 on windows'
+  s.version = '0.0.2'
+  s.summary = "DEPRECATED: Provides Open4.popen4 via win32/open3 (win32-open3 behavior from 1.8) on ruby 1.9. Don't use this for new code."
 
   s.author = 'Mat Schaffer'
   s.email  = 'mat@schaffer.me'
